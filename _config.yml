@@ -80,8 +80,11 @@ customLinks:
       url: https://arxiv.org/
     - text: Sci-Hub
       url: https://www.sci-hub.ren/
+    - text: 人工智能领域基础概念和术语
+      url: https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database
     - text: IGG谷歌访问助手
       url: https://iguge.xyz/
+    https://tool.yijingying.com/
     message: 科研必备
   - item:
     - text: 阿里巴巴矢量图标库
@@ -92,6 +95,8 @@ customLinks:
       url: https://www.ipaddress.com/
     - text: 嗯哩嗯哩
       url: https://enlienli.com/
+    - text: Healer的工具箱
+      url: https://tool.yijingying.com/
     message: Resource
 
 
