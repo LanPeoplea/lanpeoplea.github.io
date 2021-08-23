@@ -47,7 +47,7 @@ description: lanpeople's blog
 keywords: Deep Learning, Machine Learning, Personal Website
 url: https://lanpeoplea.github.io
 feed: /atom.xml
-favicon: /images/龙肖.png
+favicon: /resources/images/龙肖.png
 
 #Nav config
 nav:
