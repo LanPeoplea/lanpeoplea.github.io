@@ -1,7 +1,6 @@
 <html>
   <body>
 
-```html
 <table border="0">
   <tbody>
     <tr>
@@ -17,7 +16,6 @@
     </tr>
   </tbody>
 </table>
-```
   </body>
 </html>
 
