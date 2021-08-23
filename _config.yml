@@ -80,11 +80,21 @@ customLinks:
       url: https://arxiv.org/
     - text: Sci-Hub
       url: https://www.sci-hub.ren/
-    - text: 人工智能领域基础概念和术语
-      url: https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database
+    - text: LetPub：查看期刊分区
+      url: https://www.letpub.com.cn/index.php?page=journalapp&view=search
     - text: IGG谷歌访问助手
       url: https://iguge.xyz/
     message: 科研必备
+  - item:
+    - text: 动手学深度学习
+      url: https://zh-v2.d2l.ai/
+    - text: Deep Learning
+      url: https://www.deeplearningbook.org/
+    - text: Deep Learning中文版
+      url: /resources/books/dlbook_cn_v0.5-beta.pdf
+    - text: 人工智能领域基础概念和术语
+      url: https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database
+    message: 机器学习
   - item:
     - text: 阿里巴巴矢量图标库
       url: https://www.iconfont.cn/
