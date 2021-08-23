@@ -86,9 +86,11 @@ customLinks:
       url: https://iguge.xyz/
     message: 科研必备
   - item:
-    - text: 动手学深度学习
+    - text: 动手学深度学习（网站）
       url: https://zh-v2.d2l.ai/
-    - text: Deep Learning
+    - text: 动手学深度学习（PyTorch版）
+      url: /resources/books/d2l-zh-pytorch.pdf
+    - text: Deep Learning（网站）
       url: https://www.deeplearningbook.org/
     - text: Deep Learning中文版
       url: /resources/books/dlbook_cn_v0.5-beta.pdf
