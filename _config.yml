@@ -94,6 +94,8 @@ customLinks:
       url: https://www.deeplearningbook.org/
     - text: Deep Learning中文版
       url: /resources/books/dlbook_cn_v0.5-beta.pdf
+    - text: 神经网络与深度学习-邱锡鹏（网站）
+      url: https://nndl.github.io/
     - text: 人工智能领域基础概念和术语
       url: https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database
     message: 机器学习
