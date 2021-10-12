@@ -90,6 +90,8 @@ customLinks:
       url: https://zh-v2.d2l.ai/
     - text: 动手学深度学习（PyTorch版）
       url: /resources/books/d2l-zh-pytorch.pdf
+    - text: 动手学CV-Pytorch
+      url: https://datawhalechina.github.io/dive-into-cv-pytorch/#/
     - text: Deep Learning（网站）
       url: https://www.deeplearningbook.org/
     - text: Deep Learning中文版
