@@ -12,6 +12,7 @@
         <p><b><a href="/resources/papers/Generative_Adversarial_Net.pdf" target="_blank">GAN</a></b></p>
         <p><b><a href="/resources/papers/How_Does_Batch_Normalization_Help_Optimization.pdf" target="_blank">Batch Normalization</a></b></p>
         <p><b><a href="/resources/papers/Identity_Mappings_in_Deep_Residual_Networks.pdf" target="_blank">Identity Mappings in Deep Residual Networks</a></b></p>
+        <p><b><a href="/resources/papers/Masked Autoencoders Are Scalable Vision Learners.pdf" target="_blank">Masked Autoencoders Are Scalable Vision Learners</a></b></p>
       </td>
     </tr>
   </tbody>
