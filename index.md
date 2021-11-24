@@ -14,6 +14,9 @@
         <p><b><a href="/resources/papers/Identity_Mappings_in_Deep_Residual_Networks.pdf" target="_blank">Identity Mappings in Deep Residual Networks</a></b></p>
         <p><b><a href="/resources/papers/Masked Autoencoders Are Scalable Vision Learners.pdf" target="_blank">Masked Autoencoders Are Scalable Vision Learners</a></b></p>
         <p><b><a href="/resources/papers/Large_Minibatch_SGD.pdf" target="_blank">Large Minibatch SGD</a></b></p>
+        <p><b><a href="/resources/papers/AlexNet.pdf" target="_blank">AlexNet</a></b></p>
+        <p><b><a href="/resources/papers/BERT.pdf" target="_blank">BERT</a></b></p>
+        <p><b><a href="/resources/papers/ViT.pdf" target="_blank">ViT</a></b></p>
       </td>
     </tr>
   </tbody>
