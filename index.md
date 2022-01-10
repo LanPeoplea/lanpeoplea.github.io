@@ -17,6 +17,7 @@
         <p><b><a href="/resources/papers/AlexNet.pdf" target="_blank">AlexNet</a></b></p>
         <p><b><a href="/resources/papers/BERT.pdf" target="_blank">BERT</a></b></p>
         <p><b><a href="/resources/papers/ViT.pdf" target="_blank">ViT</a></b></p>
+        <p><b><a href="/resources/papers/icml-2008-denoising-autoencoders.pdf" target="_blank">DAE</a></b></p>
       </td>
     </tr>
   </tbody>
