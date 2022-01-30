@@ -21,7 +21,9 @@
         <p><b><a href="/resources/papers/ViT.pdf" target="_blank">ViT</a></b></p>
         <p><b><a href="/resources/papers/Momentum Contrast for Unsupervised Visual Representation Learning.pdf" target="_blank">MoCo</a></b></p>
         <p><b><a href="/resources/papers/icml-2008-denoising-autoencoders.pdf" target="_blank">DAE</a></b></p>
-        <p><b><a href="/resources/papers/You Only Look Once.pdf" target="_blank">Yolov1</a></b></p>
+        <p><b><a href="/resources/papers/You Only Look Once.pdf" target="_blank">YOLOv1</a></b></p>
+        <p><b><a href="/resources/papers/YOLO9000.pdf" target="_blank">YOLOv2</a></b></p>
+        <p><b><a href="/resources/papers/YOLOv3.pdf" target="_blank">YOLOv3</a></b></p>
       </td>
     </tr>
   </tbody>
