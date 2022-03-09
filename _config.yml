@@ -82,6 +82,8 @@ customLinks:
       url: https://www.sci-hub.ren/
     - text: LetPub：查看期刊分区
       url: https://www.letpub.com.cn/index.php?page=journalapp&view=search
+    - text: Conference Partner (会伴)
+      url: https://www.myhuiban.com/
     - text: IGG谷歌访问助手
       url: https://iguge.xyz/
     message: 科研必备
