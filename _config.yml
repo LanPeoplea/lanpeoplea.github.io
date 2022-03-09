@@ -100,6 +100,8 @@ customLinks:
       url: https://nndl.github.io/
     - text: 人工智能领域基础概念和术语
       url: https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database
+    - text: Neuronal Dynamics(online book)
+      url: https://neuronaldynamics.epfl.ch/online/index.html
     message: 机器学习
   - item:
     - text: 阿里巴巴矢量图标库
