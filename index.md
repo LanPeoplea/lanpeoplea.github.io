@@ -1,13 +1,22 @@
 <html>
   <body>
-
+<table border="0">
+  <tbody>
+    <tr>
+      <td width="75%">
+        <p><b>SNN推荐文献：</b></p>
+        <p><b><a href="https://arxiv.org/abs/2011.05280" target="_blank">tdBN</a></b></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <table border="0">
   <tbody>
     <tr>
       <td width="75%">
         <p><b>推荐阅读：</b></p>
         <p><b><a href="/resources/papers/Attention_is_all_you_need.pdf" target="_blank">Transformer</a></b></p>
-          <p><b><a href="/resources/papers/Swin Transformer.pdf" target="_blank">Swin Transformer</a></b></p>
+         <p><b><a href="/resources/papers/Swin Transformer.pdf" target="_blank">Swin Transformer</a></b></p>
         <p><b><a href="/resources/papers/Deep_Residual_Learning_for_Image_Recognition.pdf" target="_blank">Residual Network</a></b></p>
         <p><b><a href="/resources/papers/Deep_Residual_Shrinkage_Networks_for_Fault_Diagnosis.pdf" target="_blank">Deep Residual Shrinkage Networks</a></b></p>
         <p><b><a href="/resources/papers/NIPS-2014-generative-adversarial-nets-Paper.pdf" target="_blank">GAN</a></b></p>
