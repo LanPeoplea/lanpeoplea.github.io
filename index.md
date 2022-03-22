@@ -5,9 +5,11 @@
     <tr>
       <td width="75%">
         <p><b>SNN推荐文献：</b></p>
-        <p><b> 李国齐组：
-			<a href="https://arxiv.org/abs/2011.05280" target="_blank">tdBN</a><br/>
-			<a href="https://arxiv.org/abs/1809.05793" target="_blank">Direct training for spiking neural networks_Faster, larger, better</a>
+        <p><b> 李国齐组：<br/>
+			<a href="https://arxiv.org/abs/1809.05793" target="_blank">Direct training for spiking neural networks_Faster, larger, better</a><br/>
+			<a href="https://arxiv.org/abs/2011.05280" target="_blank">Going Deeper With Directly-Trained Larger Spiking Neural Networks</a><br/>
+			<a href="https://www.sciencedirect.com/science/article/pii/S0893608019302667" target="_blank">Rethinking the performance comparison between SNNS and ANNS</a><br/>
+			<a href="https://arxiv.org/abs/2203.01158" target="_blank">Rethinking Pretraining as a Bridge from ANNs to SNNs</a>
 		</b></p>
 		<p><b> 唐华锦组：
 			
@@ -37,8 +39,8 @@
         <p><b><a href="/resources/papers/AlexNet.pdf" target="_blank">AlexNet</a></b></p>
         <p><b><a href="/resources/papers/BERT.pdf" target="_blank">BERT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			  <a href="/resources/papers/ViT.pdf" target="_blank">ViT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			  <a href="/resources/papers/Momentum Contrast for Unsupervised Visual Representation Learning.pdf" target="_blank">MoCo</a></b></p>
-        <p><b><a href="/resources/papers/icml-2008-denoising-autoencoders.pdf" target="_blank">DAE</a></b></p>
+			  <a href="/resources/papers/Momentum Contrast for Unsupervised Visual Representation Learning.pdf" target="_blank">MoCo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			  <a href="/resources/papers/icml-2008-denoising-autoencoders.pdf" target="_blank">DAE</a></b></p>
         <p><b><a href="/resources/papers/You Only Look Once.pdf" target="_blank">YOLOv1</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			  <a href="/resources/papers/YOLO9000.pdf" target="_blank">YOLOv2</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			  <a href="/resources/papers/YOLOv3.pdf" target="_blank">YOLOv3</a></b></p>
