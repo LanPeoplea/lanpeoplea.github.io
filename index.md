@@ -5,7 +5,16 @@
     <tr>
       <td width="75%">
         <p><b>SNN推荐文献：</b></p>
-        <p><b><a href="https://arxiv.org/abs/2011.05280" target="_blank">tdBN</a></b></p>
+        <p><b> 李国齐组：
+			<a href="https://arxiv.org/abs/2011.05280" target="_blank">tdBN</a>
+			<a href="https://arxiv.org/abs/1809.05793" target="_blank">Direct training for spiking neural networks_Faster, larger, better</a>
+		</b></p>
+		<p><b> 唐华锦组：
+			
+		</b></p>
+		<p><b> 其他：
+			<a href="https://www.sciencedirect.com/science/article/pii/S0278612520301138" target="_blank">A spiking neural network-based approach to bearing fault diagnosis</a>
+		</b></p>
       </td>
     </tr>
   </tbody>
