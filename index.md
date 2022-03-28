@@ -6,8 +6,10 @@
       <td width="75%">
         <p><b>SNN推荐文献：</b></p>
         <p><b> 李国齐组：<br/>
-			<a href="https://arxiv.org/abs/1809.05793" target="_blank">Direct training for spiking neural networks_Faster, larger, better</a><br/>
-			<a href="https://arxiv.org/abs/2011.05280" target="_blank">Going Deeper With Directly-Trained Larger Spiking Neural Networks</a><br/>
+			<a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00331/full" target="_blank">STBP</a><br/>
+			<a href="https://arxiv.org/abs/1809.05793" target="_blank">NeuNorm</a><br/>
+			<a href="https://arxiv.org/abs/2011.05280" target="_blank">tdBN</a><br/>
+			<a href="https://arxiv.org/abs/2011.06176" target="_blank">LIAF</a><br/>
 			<a href="https://www.sciencedirect.com/science/article/pii/S0893608019302667" target="_blank">Rethinking the performance comparison between SNNS and ANNS</a><br/>
 			<a href="https://arxiv.org/abs/2203.01158" target="_blank">Rethinking Pretraining as a Bridge from ANNs to SNNs</a>
 		</b></p>
