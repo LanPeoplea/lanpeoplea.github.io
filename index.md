@@ -11,6 +11,7 @@
 			<a href="https://arxiv.org/abs/2011.05280" target="_blank">tdBN</a><br/>
 			<a href="https://arxiv.org/abs/2011.06176" target="_blank">LIAF</a><br/>
 			<a href="https://www.sciencedirect.com/science/article/pii/S0893608019302667" target="_blank">Rethinking the performance comparison between SNNS and ANNS</a><br/>
+			<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yao_Temporal-Wise_Attention_Spiking_Neural_Networks_for_Event_Streams_Classification_ICCV_2021_paper.pdf" target="_blank"Temporal-wise Attention Spiking Neural Networks for Event Streams Classification</a><br/>
 			<a href="https://arxiv.org/abs/2203.01158" target="_blank">Rethinking Pretraining as a Bridge from ANNs to SNNs</a>
 		</b></p>
 		<p><b> 唐华锦组：
