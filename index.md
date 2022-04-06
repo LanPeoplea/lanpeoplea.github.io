@@ -5,7 +5,7 @@
     <tr>
       <td width="75%">
         <p><b>SNN推荐文献：</b></p>
-        <p><b> 李国齐组：<br/>
+        <p><b>李国齐组：<br/>
 			<a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00331/full" target="_blank">STBP</a><br/>
 			<a href="https://arxiv.org/abs/1809.05793" target="_blank">NeuNorm</a><br/>
 			<a href="https://arxiv.org/abs/2011.05280" target="_blank">tdBN</a><br/>
@@ -14,11 +14,14 @@
 			<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Yao_Temporal-Wise_Attention_Spiking_Neural_Networks_for_Event_Streams_Classification_ICCV_2021_paper.pdf" target="_blank">Temporal-wise Attention Spiking Neural Networks for Event Streams Classification</a><br/>
 			<a href="https://arxiv.org/abs/2203.01158" target="_blank">Rethinking Pretraining as a Bridge from ANNs to SNNs</a>
 		</b></p>
-		<p><b> 唐华锦组：
+		<p><b>唐华锦组：
 			
 		</b></p>
 		<p><b> 其他：
 			<a href="https://www.sciencedirect.com/science/article/pii/S0278612520301138" target="_blank">A spiking neural network-based approach to bearing fault diagnosis</a>
+		</b></p>
+		<p><b>余肇飞组：
+			<a href="https://arxiv.org/pdf/2007.05785.pdf" target="_blank">PLIF（ICCV 2021）</a><br/>
 		</b></p>
       </td>
     </tr>
