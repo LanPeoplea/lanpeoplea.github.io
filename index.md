@@ -22,6 +22,7 @@
 		</b></p>
 		<p><b>余肇飞组：
 			<a href="https://arxiv.org/pdf/2007.05785.pdf" target="_blank">PLIF（ICCV 2021）</a><br/>
+			<a href="https://arxiv.org/pdf/2202.01440.pdf" target="_blank">Optimized Potential Initialization for Low-latency Spiking Neural Networks（AAAI 2022）</a><br/>
 		</b></p>
       </td>
     </tr>
