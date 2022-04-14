@@ -45,7 +45,8 @@
         <p><b><a href="/resources/papers/Identity_Mappings_in_Deep_Residual_Networks.pdf" target="_blank">Identity Mappings in Deep Residual Networks</a></b></p>
         <p><b><a href="/resources/papers/Masked Autoencoders Are Scalable Vision Learners.pdf" target="_blank">Masked Autoencoders Are Scalable Vision Learners</a></b></p>
         <p><b><a href="/resources/papers/Large_Minibatch_SGD.pdf" target="_blank">Large Minibatch SGD</a></b></p>
-        <p><b><a href="/resources/papers/AlexNet.pdf" target="_blank">AlexNet</a></b></p>
+        <p><b><a href="/resources/papers/AlexNet.pdf" target="_blank">AlexNet</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			  <a href="https://arxiv.org/abs/2203.06717" target="_blank">Scaling Up Your Kernels to 31x31</a></b></p>
         <p><b><a href="/resources/papers/BERT.pdf" target="_blank">BERT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			  <a href="/resources/papers/ViT.pdf" target="_blank">ViT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			  <a href="/resources/papers/Momentum Contrast for Unsupervised Visual Representation Learning.pdf" target="_blank">MoCo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
