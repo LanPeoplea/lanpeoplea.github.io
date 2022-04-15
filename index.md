@@ -20,7 +20,7 @@
 		<p><b> 其他：
 			<a href="https://www.sciencedirect.com/science/article/pii/S0278612520301138" target="_blank">A spiking neural network-based approach to bearing fault diagnosis</a>
 		</b></p>
-		<p><b><a href="https://www.aaai.org/AAAI22Papers/AAAI-364.LiuF.pdf" target="_blank"SpikeConverter</a></b></p>
+		<p><b><a href="https://www.aaai.org/AAAI22Papers/AAAI-364.LiuF.pdf" target="_blank">SpikeConverter</a></b></p>
 		<p><b>余肇飞组：
 			<a href="https://arxiv.org/pdf/2007.05785.pdf" target="_blank">PLIF（ICCV 2021）</a><br/>
 			<a href="https://www.ijcai.org/proceedings/2021/0236.pdf" target="_blank">Pruning of Deep Spiking Neural Networks through Gradient Rewiring（IJCAI 2021）</a><br/>
