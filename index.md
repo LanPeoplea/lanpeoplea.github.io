@@ -25,6 +25,7 @@
 			<a href="https://arxiv.org/pdf/2007.05785.pdf" target="_blank">PLIF（ICCV 2021）</a><br/>
 			<a href="https://www.ijcai.org/proceedings/2021/0236.pdf" target="_blank">Pruning of Deep Spiking Neural Networks through Gradient Rewiring（IJCAI 2021）</a><br/>
 			<a href="https://arxiv.org/pdf/2202.01440.pdf" target="_blank">Optimized Potential Initialization for Low-latency Spiking Neural Networks（AAAI 2022）</a><br/>
+			<a href="https://arxiv.org/abs/2102.04159" target="_blank">Deep Residual Learning in Spiking Neural Networks（NeurIPS 2021）</a><br/>
 		</b></p>
       </td>
     </tr>
