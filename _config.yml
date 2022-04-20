@@ -44,7 +44,7 @@ timezone:      null
 #Site config
 title: lanpeople-科研小白的成长之路
 description: lanpeople's blog
-keywords: Deep Learning, Machine Learning, Personal Website
+keywords: Deep Learning, Machine Learning, Spiking Neural Network, Personal Website
 url: https://lanpeoplea.github.io
 feed: /atom.xml
 favicon: /resources/images/龙肖.png
@@ -64,7 +64,7 @@ author:
     email: lanpeople326@gmail.com
     imageLink: /resources/images/039.jpg
     simpleIntro: 终身学习者
-    detailIntro: UESTC 软件工程硕士，研究脉冲神经网络、深度学习。热爱长跑、马拉松。
+    detailIntro: UESTC 软件工程硕士，研究方向：脉冲神经网络、深度学习。热爱长跑、马拉松。
 
 #You can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
